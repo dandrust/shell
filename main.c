@@ -1,5 +1,3 @@
-// gcc process.c job.c parse.c background.c execute.c builtin.c main.c -o dansh
-
 #include <stdio.h>
 #include <wait.h>
 #include <unistd.h>
